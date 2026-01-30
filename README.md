@@ -97,7 +97,7 @@ The application provides an interactive interface to analyze survey data and com
 1. Open MATLAB  
 2. Clone or download this repository  
 3. Open the `EVCS2.mlapp` script file  
-4. Load the sample CSV survey data  
+4. Load the sample CSV survey data (`data2.csv`)  
 5. Run the script and interact with the application interface  
 
 ---
